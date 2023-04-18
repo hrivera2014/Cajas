@@ -2,7 +2,8 @@
 
 Reconoces este código:
 
-``import random
+```python
+import random
 
 boxes = []
 for i in range(5):
@@ -40,7 +41,8 @@ for round in range(100):
       wins_switch += 1
 
 print('Number of Wins by Guessing:', wins_guess) 
-print('Number of Wins by Switching:', wins_switch)``
+print('Number of Wins by Switching:', wins_switch)
+``
 
 Por favor ejecutalo y extrae conclusiones de los resultados.
 
