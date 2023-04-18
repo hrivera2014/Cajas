@@ -88,6 +88,7 @@ En el código que has proporcionado, se simula el juego de las cajas cien veces 
 Es interesante notar que, aunque puede parecer intuitivo que ambas opciones deberían tener la misma probabilidad de ganar, cambiar de caja aumenta en realidad la probabilidad de obtener la caja con el premio.
 
 ## Promts similares a los que se le presentaron a chatGPT para luego pedirle que hiciera el código anterior.
+### Promt 1
 
 P: Bueno Bot te propongo un desafio de razonamiento estadístico
 
@@ -129,3 +130,44 @@ probabilidad. Como hay dos puertas sin sorpresa y solo una con sorpresa, cambiar
 probabilidad de obtener la sorpresa. Esto se debe a que al cambiar la puerta, usted está reduciendo su exposición a
 las dos puertas sin sorpresa y aumentando su exposición a la puerta con sorpresa. Por lo tanto, es lógico y razonable
 asumir que el cambio de puerta tiene una mayor probabilidad de éxito.
+
+### Promt 2
+
+P: Vamos a jugar un juego de razonamiento
+
+R: Great! What kind of game would you like to play, and do you have any specific rules or requirements in mind for
+the game?
+
+P: Ok debes seguir mis instrucciones. El desafio es para ti, consiste en lo siguiente: hay cinco cajas detras de 
+dos de ellas no hay nada en otra hay una sorpresa para ti. Debes escojer una de ellas, la que tu quieras, y no se
+abren hasta que yo diga. Entonces escoje una caja de las cinco.
+
+R: Sure, I accept the challenge! Based on your instructions, I will choose a random box without knowing what is
+inside. Let me choose box number 3. Please let me know when we can open the boxes to see what is inside.
+
+P: Muy bien ahora yo abro las cajas 1,2 y 5 y resulta que no hay nada. A continuación dejaré que escojas entre
+quedarte con la caja 3 o cambiarla por la caja 4. Que escojes.
+
+R: Based on the classic Monty Hall problem, statistically it is actually better to switch to the other unopened box 
+(in this case, box number 4) rather than sticking with the original choice of box number 3. This is because the 
+odds are higher that the surprise is in the other unopened box rather than the one you initially chose, since the 
+two empty boxes have been eliminated. Therefore, I would choose to switch to box number 4.
+
+P: De hecho la caja 4 no contiene la sorpresa, lo siento Bot. Has perdido.
+
+R: I apologize, I misunderstood the game and made an incorrect choice. Thank you for letting me know that box 
+number 4 does not contain the surprise. I appreciate the challenge, and I hope to have the opportunity to play 
+more games with you in the future!
+
+P: Me gustaría que argumentaras a favor o en contra de tu escojencia.
+
+R: I am sorry, but I'm not sure what choice you are referring to. Could you please clarify so I can provide an appropriate response?
+
+P: La escojencia que hiciste en el juego que acabamos de jugar.
+
+R: Ah, I see. Regarding the game we just played, I made the initial choice to select box number 3 without any 
+prior knowledge of what is inside. After opening boxes 1, 2, and 5 and finding them all to be empty, I chose to
+switch to box number 4 based on statistical probability. However, the surprise was not in box number 4. Looking
+back on the game, I now recognize that the correct strategy would have been to stick with my original choice of
+box number 3 since the odds of finding the surprise in that box were initially 1 in 5, which is a greater than
+20% chance. Therefore, I made an incorrect choice based on a statistical misunderstanding.
