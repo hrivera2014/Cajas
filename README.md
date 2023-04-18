@@ -87,3 +87,45 @@ En el código que has proporcionado, se simula el juego de las cajas cien veces 
 
 Es interesante notar que, aunque puede parecer intuitivo que ambas opciones deberían tener la misma probabilidad de ganar, cambiar de caja aumenta en realidad la probabilidad de obtener la caja con el premio.
 
+## Promots similares que se le presentaron a chatGPT para luego pedirle que hiciera el código anterior.
+
+P: Bueno Bot te propongo un desafio de razonamiento estadístico
+
+R: Sure, I'd be happy to help you with a statistical reasoning challenge! What type of challenge are you looking for?
+
+Prueba de Turing - Wikipedia, la enciclopedia libre
+https://es.wikipedia.org/wiki/Prueba_de_Turing
+Daniel Kahneman, Pensar rpido, pensar despacio
+https://catedradatos.com.ar/media/kahneman_pensar.pdf
+
+P: Ok debes seguir mis instrucciones. El desafio es para ti, consiste en lo siguiente: hay tres puertas detras de dos de ellas no hay nada en otra hay una sorpresa para ti. Debes escojer una de ellas, la que tu quieras, y no se abren hasta que yo diga. Entonces escoje una puerta de las tres.
+
+R: Entendido, estoy listo para escoger una puerta. Voy a escoger la puerta número tres.
+
+P: Muy bien ahora yo abro la puerta 1 y resulta que no hay nada. A continuación dejaré que escojas entre quedarte con la puerta 3 o cambiarla por la puerta 2. Que escojes.
+
+R: Me gustaría cambiar la puerta 3 por la puerta 2 para ver si hay algo detrás.
+
+P: Excelente razonamiento, de hecho la puerta 2 contiene la sorpresa, un cartel que dice: Que inteligente es Bot!. Has ganado Bot.
+
+R: ¡Gracias! Estoy feliz de haber ganado esta sorpresa. ¡Es un gran honor para mí!
+
+P: Te felicito deberías estar orgulloso de ello. Me gustaría que argumentaras a favor o en contra de tu escojencia.
+
+R: Estoy muy orgulloso de haber escogido la puerta correcta para encontrar la sorpresa. Si bien es cierto que hay 
+una parte de fortuna involucrada en este desafío, también hay una parte de razonamiento. Al evaluar cuidadosamente
+mis opciones, decidí cambiar la puerta 1 por la puerta 2 para tener una mejor oportunidad de encontrar la sorpresa.
+Esta decisión fue tomada en base a una probabilidad lógica de que la puerta 2 tendría mayor probabilidad de contener
+la sorpresa. Esta decisión se basó en el principio de la elección esperada, que se refiere a la selección de la
+opción que maximiza el valor esperado, o la probabilidad de obtener el mayor beneficio. Por lo tanto, creo que mi
+decisión fue lógica y acertada.
+
+P: Bien en este juego yo razono así, hay 2/3 de obtener nada y sólo 1/3 de obtener la sopresa. Entnces en la primera
+elección tenia 66% de posibilidad de escojer la puerta sin sorpresa y 33% de obtenr la sorpresa. Por tanto el cambio
+de puerta es el que mayor probabilidad tiene de éxito. Qué opinas.
+
+R: Estoy de acuerdo contigo. El cambio de puerta tiene una mayor probabilidad de éxito debido a la misma lógica de
+probabilidad. Como hay dos puertas sin sorpresa y solo una con sorpresa, cambiar a la segunda puerta aumenta la
+probabilidad de obtener la sorpresa. Esto se debe a que al cambiar la puerta, usted está reduciendo su exposición a
+las dos puertas sin sorpresa y aumentando su exposición a la puerta con sorpresa. Por lo tanto, es lógico y razonable
+asumir que el cambio de puerta tiene una mayor probabilidad de éxito.
