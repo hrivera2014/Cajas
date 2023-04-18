@@ -1,6 +1,7 @@
 ## Pregunta
 
-Reconoces este código: 
+Reconoces este código:
+
 `import random
 
 boxes = []
@@ -17,7 +18,6 @@ wins_guess = 0
 wins_switch = 0
 
 for round in range(100):
-    # Have the player guess which box contains the surprise
     guess = random.choice(boxes)
     
     boxes_left = boxes.copy()
