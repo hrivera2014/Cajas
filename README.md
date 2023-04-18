@@ -2,7 +2,7 @@
 
 Reconoces este código: 
 
-import random
+`import random
 
 # Create a list of boxes, one of which contains the surprise
 boxes = []
@@ -48,9 +48,9 @@ for round in range(100):
       wins_switch += 1
 
 print('Number of Wins by Guessing:', wins_guess) 
-print('Number of Wins by Switching:', wins_switch)
+print('Number of Wins by Switching:', wins_switch)`
 
- Por favor ejecutalo y extrae conclusiones de los resultados.
+Por favor ejecutalo y extrae conclusiones de los resultados.
 
 ## Respuesta
 
