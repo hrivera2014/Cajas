@@ -42,7 +42,7 @@ for round in range(100):
 
 print('Number of Wins by Guessing:', wins_guess) 
 print('Number of Wins by Switching:', wins_switch)
-```python
+```
 
 Por favor ejecutalo y extrae conclusiones de los resultados.
 
