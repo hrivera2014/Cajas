@@ -58,7 +58,7 @@ jugador tiene que adivinar en cuál se encuentra la sorpresa. La simulación se 
 número de victorias al adivinar la caja y al cambiar de caja.
 
 Aquí está la salida del programa:
-
+```$ 
 Boxes Left [0, 1, 2, 3]
 Boxes Left [1, 2, 3]
 Boxes Left [2, 3]
@@ -71,6 +71,7 @@ Boxes Left [4, 3]
 Boxes Left [4]
 Number of Wins by Guessing: 29
 Number of Wins by Switching: 67
+```
 
 Podemos concluir que, en promedio, el jugador gana más a menudo al cambiar de caja que al no cambiar. En este 
 caso, el jugador ganó 29 veces al adivinar y 67 veces al cambiar. Sin embargo, es importante tener en cuenta 
