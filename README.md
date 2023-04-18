@@ -87,7 +87,7 @@ En el código que has proporcionado, se simula el juego de las cajas cien veces 
 
 Es interesante notar que, aunque puede parecer intuitivo que ambas opciones deberían tener la misma probabilidad de ganar, cambiar de caja aumenta en realidad la probabilidad de obtener la caja con el premio.
 
-## Promots similares que se le presentaron a chatGPT para luego pedirle que hiciera el código anterior.
+## Promts similares a los que se le presentaron a chatGPT para luego pedirle que hiciera el código anterior.
 
 P: Bueno Bot te propongo un desafio de razonamiento estadístico
 
