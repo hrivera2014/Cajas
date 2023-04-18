@@ -1,3 +1,8 @@
+# Introducion
+
+Esta es una pregunta a chatGPT con un código que ella/el mismo generó apartir de una juego que se le enseñé 
+a jugar.
+
 ## Pregunta
 
 Reconoces este código:
