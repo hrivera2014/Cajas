@@ -1,6 +1,6 @@
 # Introducion
 
-Esta es una pregunta a chatGPT con un código que ella/el mismo generó apartir de una juego que se le enseñé 
+Esta es una pregunta a chatGPT con un código que ella/el mismo generó apartir de una juego que le enseñé 
 a jugar.
 
 ## Pregunta
