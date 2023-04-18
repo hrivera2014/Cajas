@@ -51,7 +51,7 @@ print('Number of Wins by Switching:', wins_switch)
 
 Por favor ejecutalo y extrae conclusiones de los resultados.
 
-## Respuesta
+## Respuesta de chatGPT
 
 Este código utiliza Python para simular un juego en el que hay una sorpresa oculta en una de varias cajas y el 
 jugador tiene que adivinar en cuál se encuentra la sorpresa. La simulación se ejecuta 100 veces y se cuenta el 
