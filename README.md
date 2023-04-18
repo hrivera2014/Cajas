@@ -37,7 +37,7 @@ for round in range(100):
     if guess == surprise_box:
       wins_guess += 1
     elif switch == True:
-      wins_switch += 1`
+      wins_switch += 1
 
 print('Number of Wins by Guessing:', wins_guess) 
 print('Number of Wins by Switching:', wins_switch)`
