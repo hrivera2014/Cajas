@@ -77,3 +77,13 @@ Podemos concluir que, en promedio, el jugador gana más a menudo al cambiar de c
 caso, el jugador ganó 29 veces al adivinar y 67 veces al cambiar. Sin embargo, es importante tener en cuenta 
 que no siempre es cierto que cambiar de caja sea la mejor estrategia, sino que depende del número de cajas y 
 de cómo se realizó la selección de cajas en primer lugar.
+
+## Otra respuesta dada por chatGPT a la misma pregunta.
+
+El código es un ejemplo de un juego llamado "Monty Hall". En este juego, el jugador selecciona una de tres cajas, sabiendo que una de ellas contiene un premio y las otras dos están vacías. Luego de seleccionar una caja, el presentador del juego destapa una de las cajas vacías, lo que produce que solo el premio y otra caja queden como opciones para el jugador. El jugador entonces tiene la opción de mantener su elección original o cambiarla por la 
+otra caja.
+
+En el código que has proporcionado, se simula el juego de las cajas cien veces y se cuenta el número de veces que el jugador gana eligiendo la caja correcta y el número de veces que gana al cambiar su elección. Los resultados pueden variar, pero generalmente el jugador tiene una mayor probabilidad de ganar al cambiar su elección.
+
+Es interesante notar que, aunque puede parecer intuitivo que ambas opciones deberían tener la misma probabilidad de ganar, cambiar de caja aumenta en realidad la probabilidad de obtener la caja con el premio.
+
