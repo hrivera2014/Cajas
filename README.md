@@ -1,6 +1,6 @@
 # Introducion
 
-Esta es una pregunta a chatGPT con un código que ella/el mismo generó apartir de una juego que le enseñé 
+Esta es una pregunta a chatGPT con un código que ella/el mismo generó apartir de un juego que le enseñé 
 a jugar.
 
 ## Pregunta
@@ -90,7 +90,7 @@ Es interesante notar que, aunque puede parecer intuitivo que ambas opciones debe
 ## Promts similares a los que se le presentaron a chatGPT para luego pedirle que hiciera el código anterior.
 ### Promt 1
 
-P: Bueno Bot te propongo un desafio de razonamiento estadístico
+P: Bueno Bot te propongo un desafío de razonamiento estadístico
 
 R: Sure, I'd be happy to help you with a statistical reasoning challenge! What type of challenge are you looking for?
 
@@ -99,11 +99,11 @@ https://es.wikipedia.org/wiki/Prueba_de_Turing
 Daniel Kahneman, Pensar rpido, pensar despacio
 https://catedradatos.com.ar/media/kahneman_pensar.pdf
 
-P: Ok debes seguir mis instrucciones. El desafio es para ti, consiste en lo siguiente: hay tres puertas detras de dos de ellas no hay nada en otra hay una sorpresa para ti. Debes escojer una de ellas, la que tu quieras, y no se abren hasta que yo diga. Entonces escoje una puerta de las tres.
+P: Ok debes seguir mis instrucciones. El desafío es para ti, consiste en lo siguiente: hay tres puertas detrás de dos de ellas no hay nada en otra hay una sorpresa para ti. Debes escoger una de ellas, la que tu quieras, y no se abren hasta que yo diga. Entonces escoge una puerta de las tres.
 
 R: Entendido, estoy listo para escoger una puerta. Voy a escoger la puerta número tres.
 
-P: Muy bien ahora yo abro la puerta 1 y resulta que no hay nada. A continuación dejaré que escojas entre quedarte con la puerta 3 o cambiarla por la puerta 2. Que escojes.
+P: Muy bien ahora yo abro la puerta 1 y resulta que no hay nada. A continuación dejaré que escojas entre quedarte con la puerta 3 o cambiarla por la puerta 2. Que escoges.
 
 R: Me gustaría cambiar la puerta 3 por la puerta 2 para ver si hay algo detrás.
 
@@ -111,7 +111,7 @@ P: Excelente razonamiento, de hecho la puerta 2 contiene la sorpresa, un cartel 
 
 R: ¡Gracias! Estoy feliz de haber ganado esta sorpresa. ¡Es un gran honor para mí!
 
-P: Te felicito deberías estar orgulloso de ello. Me gustaría que argumentaras a favor o en contra de tu escojencia.
+P: Te felicito deberías estar orgulloso de ello. Me gustaría que argumentaras a favor o en contra de tu escogencia.
 
 R: Estoy muy orgulloso de haber escogido la puerta correcta para encontrar la sorpresa. Si bien es cierto que hay 
 una parte de fortuna involucrada en este desafío, también hay una parte de razonamiento. Al evaluar cuidadosamente
@@ -122,7 +122,7 @@ opción que maximiza el valor esperado, o la probabilidad de obtener el mayor be
 decisión fue lógica y acertada.
 
 P: Bien en este juego yo razono así, hay 2/3 de obtener nada y sólo 1/3 de obtener la sopresa. Entnces en la primera
-elección tenia 66% de posibilidad de escojer la puerta sin sorpresa y 33% de obtenr la sorpresa. Por tanto el cambio
+elección tenia 66% de posibilidad de escoger la puerta sin sorpresa y 33% de obtenr la sorpresa. Por tanto el cambio
 de puerta es el que mayor probabilidad tiene de éxito. Qué opinas.
 
 R: Estoy de acuerdo contigo. El cambio de puerta tiene una mayor probabilidad de éxito debido a la misma lógica de
@@ -138,15 +138,15 @@ P: Vamos a jugar un juego de razonamiento
 R: Great! What kind of game would you like to play, and do you have any specific rules or requirements in mind for
 the game?
 
-P: Ok debes seguir mis instrucciones. El desafio es para ti, consiste en lo siguiente: hay cinco cajas detras de 
-dos de ellas no hay nada en otra hay una sorpresa para ti. Debes escojer una de ellas, la que tu quieras, y no se
-abren hasta que yo diga. Entonces escoje una caja de las cinco.
+P: Ok debes seguir mis instrucciones. El desafio es para ti, consiste en lo siguiente: hay cinco cajas detrás de 
+dos de ellas no hay nada en otra hay una sorpresa para ti. Debes escoger una de ellas, la que tu quieras, y no se
+abren hasta que yo diga. Entonces escoge una caja de las cinco.
 
 R: Sure, I accept the challenge! Based on your instructions, I will choose a random box without knowing what is
 inside. Let me choose box number 3. Please let me know when we can open the boxes to see what is inside.
 
 P: Muy bien ahora yo abro las cajas 1,2 y 5 y resulta que no hay nada. A continuación dejaré que escojas entre
-quedarte con la caja 3 o cambiarla por la caja 4. Que escojes.
+quedarte con la caja 3 o cambiarla por la caja 4. Qué escoges.
 
 R: Based on the classic Monty Hall problem, statistically it is actually better to switch to the other unopened box 
 (in this case, box number 4) rather than sticking with the original choice of box number 3. This is because the 
@@ -159,11 +159,11 @@ R: I apologize, I misunderstood the game and made an incorrect choice. Thank you
 number 4 does not contain the surprise. I appreciate the challenge, and I hope to have the opportunity to play 
 more games with you in the future!
 
-P: Me gustaría que argumentaras a favor o en contra de tu escojencia.
+P: Me gustaría que argumentaras a favor o en contra de tu escogencia.
 
 R: I am sorry, but I'm not sure what choice you are referring to. Could you please clarify so I can provide an appropriate response?
 
-P: La escojencia que hiciste en el juego que acabamos de jugar.
+P: La escogencia que hiciste en el juego que acabamos de jugar.
 
 R: Ah, I see. Regarding the game we just played, I made the initial choice to select box number 3 without any 
 prior knowledge of what is inside. After opening boxes 1, 2, and 5 and finding them all to be empty, I chose to
