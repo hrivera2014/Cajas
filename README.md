@@ -121,8 +121,8 @@ la sorpresa. Esta decisión se basó en el principio de la elección esperada, q
 opción que maximiza el valor esperado, o la probabilidad de obtener el mayor beneficio. Por lo tanto, creo que mi
 decisión fue lógica y acertada.
 
-P: Bien en este juego yo razono así, hay 2/3 de obtener nada y sólo 1/3 de obtener la sopresa. Entnces en la primera
-elección tenia 66% de posibilidad de escoger la puerta sin sorpresa y 33% de obtenr la sorpresa. Por tanto el cambio
+P: Bien en este juego yo razono así, hay 2/3 de obtener nada y sólo 1/3 de obtener la sorpresa. Entnces en la primera
+elección tenia 66% de posibilidad de escoger la puerta sin sorpresa y 33% de obtener la sorpresa. Por tanto el cambio
 de puerta es el que mayor probabilidad tiene de éxito. Qué opinas.
 
 R: Estoy de acuerdo contigo. El cambio de puerta tiene una mayor probabilidad de éxito debido a la misma lógica de
@@ -138,7 +138,7 @@ P: Vamos a jugar un juego de razonamiento
 R: Great! What kind of game would you like to play, and do you have any specific rules or requirements in mind for
 the game?
 
-P: Ok debes seguir mis instrucciones. El desafio es para ti, consiste en lo siguiente: hay cinco cajas detrás de 
+P: Ok debes seguir mis instrucciones. El desafío es para ti, consiste en lo siguiente: hay cinco cajas detrás de 
 dos de ellas no hay nada en otra hay una sorpresa para ti. Debes escoger una de ellas, la que tu quieras, y no se
 abren hasta que yo diga. Entonces escoge una caja de las cinco.
 
